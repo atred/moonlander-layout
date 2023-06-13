@@ -1,0 +1,8 @@
+#pragma once
+
+#define TAPPING_TERM 250
+#define TAPPING_TERM_PER_KEY
+#define PERMISSIVE_HOLD
+
+#define NO_ACTION_MACRO
+#define NO_ACTION_FUNCTION
